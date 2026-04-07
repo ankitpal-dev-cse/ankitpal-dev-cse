@@ -21,3 +21,8 @@ HTML | CSS | JavaScript | React | Git | GitHub
   <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,github,postman,vscode,c,cpp&perline=6" />
 </p>
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitpal-dev-cse&layout=compact&theme=radical" />
+</p>
+
