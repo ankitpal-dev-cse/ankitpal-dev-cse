@@ -20,3 +20,11 @@ HTML | CSS | JavaScript | React | Git | GitHub
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,github,postman,vscode,c,cpp&perline=6" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitpal-dev-cse&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitpal-dev-cse&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitpal-dev-cse&layout=compact&theme=radical" />
+</p>
