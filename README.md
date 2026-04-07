@@ -9,6 +9,8 @@
 ## 🛠 Skills
 HTML | CSS | JavaScript | React | Git | GitHub
 
+## 📄 My Resume
+👉 [Download Resume](https://github.com/ankitpal-dev-cse/ankitpal-dev-cse/raw/main/Ankit_Resume-3-1.pdf)
 
 
 <p align="center">
