@@ -18,5 +18,5 @@ HTML | CSS | JavaScript | React | Git | GitHub
 <h2 align="center">🌐 Languages & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,github,postman,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,github,postman,vscode,c,c++&perline=6" />
 </p>
