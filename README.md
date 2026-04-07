@@ -8,6 +8,11 @@
 
 ## 🛠 Skills
 HTML | CSS | JavaScript | React | Git | GitHub
-<a href="https://github.com/your-username/your-repo/raw/main/Ankit_Resume-3-1.pdf">
-  <img src="https://img.shields.io/badge/Download%20Resume-blue?style=for-the-badge" />
-</a>
+
+
+
+<p align="center">
+  <a href="https://github.com/ankitpal-dev-cse/ankitpal-dev-cse/raw/main/Ankit_Resume-3-1.pdf">
+    <img src="https://img.shields.io/badge/Download%20My%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader" />
+  </a>
+</p>
