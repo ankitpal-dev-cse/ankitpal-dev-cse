@@ -15,4 +15,8 @@ HTML | CSS | JavaScript | React | Git | GitHub
   <img src="https://komarev.com/ghpvc/?username=ankitpal-dev-cse&label=%20Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
+<h2 align="center">🌐 Languages & Tools</h2>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,github,postman,vscode&perline=6" />
+</p>
