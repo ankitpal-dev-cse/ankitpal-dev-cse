@@ -11,6 +11,8 @@ HTML | CSS | JavaScript | React | Git | GitHub
 
 ## 📄 My Resume
 👉 [Download Resume](https://github.com/ankitpal-dev-cse/ankitpal-dev-cse/raw/main/Ankit_Resume-3-1.pdf)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ankitpal-dev-cse&label=👀%20Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
 
 
