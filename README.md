@@ -22,7 +22,9 @@ HTML | CSS | JavaScript | React | Git | GitHub
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitpal-dev-cse&layout=compact&theme=radical" />
-</p>
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitpal-dev-cse&show_icons=true&theme=radical" />
+ 
+</p>
