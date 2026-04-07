@@ -14,17 +14,10 @@ HTML | CSS | JavaScript | React | Git | GitHub
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ankitpal-dev-cse&label=%20Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
-
 <h2 align="center">🌐 Languages & Tools</h2>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,github,postman,vscode,c,cpp&perline=6" />
 </p>
-
-
-
-
 <p align="center">
- 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitpal-dev-cse&theme=radical" />
 </p>
